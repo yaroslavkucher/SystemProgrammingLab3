@@ -1,0 +1,6 @@
+# Copy this file, rename it to paths.cmake, and specify your paths.
+# This file is needed only if win_bison.exe and win_flex.exe are not in the system PATH,
+# or if winget reports an error stating that m4sugar.m4 is missing.
+
+# set(BISON_EXECUTABLE "C:/winflexbison/win_bison.exe")
+# set(FLEX_EXECUTABLE "C:/winflexbison/win_flex.exe")

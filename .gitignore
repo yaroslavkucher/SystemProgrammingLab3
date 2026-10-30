@@ -1,0 +1,8 @@
+build/
+*.obj
+*.pdb
+*.exe
+ast.json
+output.py
+paths.cmake
+.vs/
